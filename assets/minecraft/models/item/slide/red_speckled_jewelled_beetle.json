@@ -1,0 +1,7 @@
+{
+	"parent": "item/slide/empty_slide",
+	"textures": {
+		"0": "item/slide/red_speckled_jewelled_beetle",
+		"particle": "item/slide/red_speckled_jewelled_beetle"
+	}
+}

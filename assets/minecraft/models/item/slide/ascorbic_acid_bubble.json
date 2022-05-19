@@ -1,0 +1,7 @@
+{
+	"parent": "item/slide/empty_slide",
+	"textures": {
+		"0": "item/slide/ascorbic_acid_air_bubbles",
+		"particle": "item/slide/ascorbic_acid_air_bubbles"
+	}
+}

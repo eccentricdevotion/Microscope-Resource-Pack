@@ -1,0 +1,7 @@
+{
+	"parent": "item/slide/empty_slide",
+	"textures": {
+		"0": "item/slide/mouse_mammary_gland_organoid",
+		"particle": "item/slide/mouse_mammary_gland_organoid"
+	}
+}

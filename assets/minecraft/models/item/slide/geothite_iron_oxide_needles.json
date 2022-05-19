@@ -1,0 +1,7 @@
+{
+	"parent": "item/slide/empty_slide",
+	"textures": {
+		"0": "item/slide/geothite_iron_oxide_needles",
+		"particle": "item/slide/geothite_iron_oxide_needles"
+	}
+}

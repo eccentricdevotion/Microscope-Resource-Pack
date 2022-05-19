@@ -1,0 +1,7 @@
+{
+	"parent": "item/slide/empty_slide",
+	"textures": {
+		"0": "item/screen/wild_strawberry",
+		"particle": "item/screen/wild_strawberry"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/slide/empty_slide",
+	"textures": {
+		"0": "item/slide/human_neural_rosette_primordial_brain_cells",
+		"particle": "item/slide/human_neural_rosette_primordial_brain_cells"
+	}
+}

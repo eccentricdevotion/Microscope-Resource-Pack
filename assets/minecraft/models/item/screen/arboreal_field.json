@@ -1,0 +1,7 @@
+{
+	"parent": "item/slide/empty_slide",
+	"textures": {
+		"0": "item/screen/arboreal_field",
+		"particle": "item/screen/arboreal_field"
+	}
+}

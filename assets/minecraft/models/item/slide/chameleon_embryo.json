@@ -1,0 +1,7 @@
+{
+	"parent": "item/slide/empty_slide",
+	"textures": {
+		"0": "item/slide/chameleon_embryo",
+		"particle": "item/slide/chameleon_embryo"
+	}
+}

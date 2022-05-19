@@ -1,0 +1,7 @@
+{
+	"parent": "item/slide/empty_slide",
+	"textures": {
+		"0": "item/screen/giardia_muris",
+		"particle": "item/screen/giardia_muris"
+	}
+}

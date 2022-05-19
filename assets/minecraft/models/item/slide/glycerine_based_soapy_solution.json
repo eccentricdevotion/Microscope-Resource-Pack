@@ -1,0 +1,7 @@
+{
+	"parent": "item/slide/empty_slide",
+	"textures": {
+		"0": "item/slide/glycerine_based_soapy_solution",
+		"particle": "item/slide/glycerine_based_soapy_solution"
+	}
+}
