@@ -2,6 +2,7 @@
 	"parent": "item/slide/empty_slide",
 	"textures": {
 		"0": "item/slide/human_neural_rosette_primordial_brain_cells",
+		"1": "item/telescope/label",
 		"particle": "item/slide/human_neural_rosette_primordial_brain_cells"
 	}
 }

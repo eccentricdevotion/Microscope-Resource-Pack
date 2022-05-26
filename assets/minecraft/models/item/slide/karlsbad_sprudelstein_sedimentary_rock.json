@@ -2,6 +2,7 @@
 	"parent": "item/slide/empty_slide",
 	"textures": {
 		"0": "item/slide/karlsbad_sprudelstein_sedimentary_rock",
+		"1": "item/telescope/label",
 		"particle": "item/slide/karlsbad_sprudelstein_sedimentary_rock"
 	}
 }

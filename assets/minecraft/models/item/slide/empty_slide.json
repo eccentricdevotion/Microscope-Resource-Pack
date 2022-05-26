@@ -3,12 +3,14 @@
 	"texture_size": [256, 256],
 	"textures": {
 		"0": "item/slide/empty_slide",
+		"1": "item/telescope/label",
 		"particle": "item/slide/empty_slide"
 	},
 	"elements": [
 		{
-			"from": [-16, 0, 0],
-			"to": [32, 27, 0],
+			"from": [-5.5, 0, 0.1],
+			"to": [21.5, 27, 0.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1.5, 0, 0]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"east": {"uv": [0, 0, 0, 2], "texture": "#0"},
@@ -16,6 +18,14 @@
 				"west": {"uv": [0, 0, 0, 2], "texture": "#0"},
 				"up": {"uv": [3, 0, 0, 0], "texture": "#0"},
 				"down": {"uv": [3, 0, 0, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-16, 0, 0],
+			"to": [32, 27, 0],
+			"faces": {
+				"north": {"uv": [0, 8, 3, 9.6875], "texture": "#1"},
+				"south": {"uv": [3.5, 8, 6.5, 9.6875], "texture": "#1"}
 			}
 		}
 	],
@@ -31,9 +41,8 @@
 			"scale": [1.2, 1.2, 1.2]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-180, 0, 0],
-			"translation": [-9, 10.85, 0],
-			"scale": [0.46, 0.46, 0.46]
+			"translation": [-9, 1.75, 0],
+			"scale": [1.2, 1.2, 1.2]
 		},
 		"ground": {
 			"scale": [0.01, 0.01, 0.01]

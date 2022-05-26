@@ -2,6 +2,7 @@
 	"parent": "item/slide/empty_slide",
 	"textures": {
 		"0": "item/slide/plastic_fracturing_on_credit_card_hologram",
+		"1": "item/telescope/label",
 		"particle": "item/slide/plastic_fracturing_on_credit_card_hologram"
 	}
 }

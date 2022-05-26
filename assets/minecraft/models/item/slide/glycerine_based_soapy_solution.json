@@ -2,6 +2,7 @@
 	"parent": "item/slide/empty_slide",
 	"textures": {
 		"0": "item/slide/glycerine_based_soapy_solution",
+		"1": "item/telescope/label",
 		"particle": "item/slide/glycerine_based_soapy_solution"
 	}
 }

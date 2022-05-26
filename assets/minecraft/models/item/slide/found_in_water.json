@@ -2,6 +2,7 @@
 	"parent": "item/slide/empty_slide",
 	"textures": {
 		"0": "item/slide/found_in_water",
+		"1": "item/telescope/label",
 		"particle": "item/slide/found_in_water"
 	}
 }

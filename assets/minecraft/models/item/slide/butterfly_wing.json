@@ -2,6 +2,7 @@
 	"parent": "item/slide/empty_slide",
 	"textures": {
 		"0": "item/slide/butterfly_wing",
+		"1": "item/telescope/label",
 		"particle": "item/slide/butterfly_wing"
 	}
 }
