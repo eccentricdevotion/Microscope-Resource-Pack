@@ -1,0 +1,8 @@
+{
+	"parent": "item/slide/empty_slide",
+	"textures": {
+		"0": "item/telescope/mars_surface_1",
+		"1": "item/telescope/label",
+		"particle": "item/telescope/mars_surface_1"
+	}
+}
